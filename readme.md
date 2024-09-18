@@ -1,4 +1,4 @@
-# GoogleSansVH
+# discord-theme-fonts
 
-Google Sans is a geometric sans-serif typeface designed by Google for use as a corporate branding face.   
-This repository holds a version of GoogleSans that supports Vietnamese typeface, for use with custom Discord client/theme.
+My font repository for custom discord client/themes.    
+[Google Sans](https://github.com/azurenekowo/discord-theme-fonts/raw/main/GoogleSans/GoogleSans-font-snippet.json) | [Inter](https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/Inter-font-snippet.json) | [Inter Tight](https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/Inter_Tight-font-snippet.json)

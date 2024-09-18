@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Inter Tight",
+    "previewText": "The quick brown fox jumps over the lazy dog",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Normal.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-NormalItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Medium.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-MediumItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-NormalItalilc.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Medium.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/azurenekowo/discord-theme-fonts/raw/main/Inter/InterTight/InterTight-Medium.ttf?raw=1"
+    }
+}
